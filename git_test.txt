@@ -2,3 +2,5 @@ git status   ->看專案狀態
 git add .   ->加入所有檔案（. == all）
 git commit –m "【摘要】第一次push"   ->（m == messge）
 git push origin main   ->推上 GitHub，分支則不用main
+
+測試
